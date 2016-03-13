@@ -26,12 +26,13 @@ int main(){
 	int sumTemp = sum(4, 3);
 	printf("%d\n", sumTemp);
 	
+	
 	//Test Count file
 	
 	int countTemp = count(5, 20);
 	printf("%d\n", countTemp);
 
-
+	
 	//Test Swap
 	int a = 5, b = 7;
 	swap(&a, &b);
